@@ -1,8 +1,3 @@
-# Rulebook
-
-Status: To Do
-Archive: No
-
 # Hotspawn 10k Showdown | Official Tournament Rulebook
 
 ---
