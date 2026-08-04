@@ -99,7 +99,7 @@ Seeding across all tournament stages follows these metrics in order:
 ### VRS Direct Invite Information
 
 - Four (4) teams receive direct invitations to the Group Stage. Invitations will start `24th August 2026.`
-- Invitations utilise the Valve Regional Standings for Europe as of `August 6th, 2026.`
+- Invitations utilise the Valve Regional Standings for Europe as of `August 3rd, 2026.`
 - Invitations start from 13th place in the Europe VRS standings, provided the team is not ranked in the Top 12 globally.
 - If a team is Top 12 globally, the invite passes to the next eligible seed.
 - Teams have 72 hours to accept an invite, or it is sent to the next seed down.
