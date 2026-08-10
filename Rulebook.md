@@ -158,7 +158,15 @@ Teams must use the official TeamSpeak server provided by Hotspawn to ensure the 
     
     *All teams are responsible for all damages and extra costs incurred by the team during the event.*
     
+### 3.8 UK Travel & Visa Eligibility Requirements
 
+* **Mandatory Travel Clearance:** Upon accepting a direct VRS Invite or successfully qualifying via an Open Qualifier, all teams must submit proof of travel eligibility to the United Kingdom for all five (5) starting players and registered support staff (e.g., Coach).
+* **Proof Requirements:** Teams must provide documented verification confirming that every participating member either:
+  1. Holds a valid UK entry visa / travel clearance covering the dates of the LAN Finals (October 24–25, 2026); OR
+  2. Holds a valid passport/nationality that permits visa-free entry (or Electronic Travel Authorisation / ETA) into the United Kingdom for the duration of the LAN event.
+* **Verification Deadline:** All travel and visa documentation must be submitted to Tournament Officials via the official Discord server prior to competing in the Online Group Stage (deadline communicated upon qualification/invite acceptance).
+* **Failure to Comply & Disqualification:** If a team or player cannot provide valid proof of travel eligibility by the designated deadline, the team will be deemed ineligible for the Group Stage to prevent travel forfeits at the LAN Finals.
+* **Slot Reallocation:** If a team is disqualified or removed due to visa/travel ineligibility prior to the Group Stage, Hotspawn reserves the right to reallocate the slot to the next eligible team in accordance with official pass-down logic.
 ---
 
 ## 4.0 Eligibility & Roster Rules
