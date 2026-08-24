@@ -77,7 +77,7 @@ Seeding across all tournament stages follows these metrics in order:
 - **Location:** Pracrooms, Sheffield, United Kingdom
 - **Visa Region:** United Kingdom
 - **Travel Stipend:** Teams qualifying for the LAN Finals each receive a travel stipend of up to **£2,500 GBP**.
-- **Accommodation:** 4 Days (3 Nights) accommodation provided for all qualified teams.
+- **Accommodation:** 5 Days (4 Nights) accommodation provided for all qualified teams.
 - **Room Allocation:** 3 Twin Rooms per team.
 
 > **Note:** All teams are responsible for all damages and extra costs incurred by the team during the event.
