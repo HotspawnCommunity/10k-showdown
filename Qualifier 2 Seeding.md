@@ -34,3 +34,5 @@
 | TakeQualys        |     |      | 2131.8 | 20            | Elo #20  |
 | StraweN Academy   |     |      | 1848.8 | 21            | Elo #21  |
 | Hexa Legion       |     |      | 1217.2 | 22            | Elo #22  |
+
+*Note : dobegaem removed themselves from the qualifier after seeding. Therefore CS Lads to Hexa Legion will all move 1 place up in seeding (E.g CS Lads: From 16 to 15, Vandulken: From 17 to 16)
