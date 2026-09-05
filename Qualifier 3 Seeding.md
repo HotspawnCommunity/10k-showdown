@@ -10,31 +10,31 @@
 
 **HLTV Rankings:** [HLTV Europe Ranking – August 24, 2026](https://www.hltv.org/ranking/teams/2026/august/24/country/Europe)
 
-| **Seed #** |       **Team**       | **Metric** |
-| :--------: | :------------------: | :--------: |
-|      1     |         STATE        |   VRS #73  |
-|      2     |        G2 Ares       |  VRS #118  |
-|      3     |      HYPERSPIRIT     |  VRS #158  |
-|      4     |          SAW         |  VRS #173  |
-|      5     |       Wampirki       |  VRS #300  |
-|      6     |       Prestige       |  HLTV #71  |
-|      7     |         Xcity        |  HLTV #210 |
-|      8     |      Balenciaga      |   Elo #3   |
-|      9     |         WISP         |   Elo #9   |
-|     10     |         Vael         |   Elo #10  |
-|     11     | Dynamo Eclot Phoenix |   Elo #11  |
-|     12     |       Flamehard      |   Elo #12  |
-|     13     |    Riset Youngster   |   Elo #13  |
-|     14     |    Sylvar Esports    |   Elo #14  |
-|     15     |   Firebird Esports   |   Elo #15  |
-|     16     |       VoidLine       |   Elo #16  |
-|     17     |        hu3team       |   Elo #17  |
-|     18     |       Spectrum       |   Elo #18  |
-|     19     |    Strawen Talents   |   Elo #19  |
-|     20     |      Team Ferrum     |   Elo #20  |
-|     21     |      TakeQualys      |   Elo #21  |
-|     22     |   Bucabull eSports   |   Elo #22  |
-|     23     |     Krypto Gaming    |   Elo #23  |
-|     24     |       DawnWave       |   Elo #24  |
-|     25     |     One Tap Mafia    |   Elo #25  |
-|     26     |       MYCHELYN       |   Elo #26  |
+| Team Name            | VRS | HLTV | ELO    | Seeding Place | Reason    |
+| -------------------- | --- | ---- | ------ | ------------- | --------- |
+| STATE                | 73  | 170  | 3308.2 | 1             | VRS #73   |
+| G2 Ares              | 118 | 98   | 3400.2 | 1             | VRS #118  |
+| HYPERSPIRIT          | 158 | 137  | 3349   | 1             | VRS #158  |
+| SAW                  | 173 | 152  | 3284.2 | 1             | VRS #173  |
+| Wampirki             | 300 |      | 3200.8 | 1             | VRS #300  |
+| Prestige             |     | 71   | 3326.4 | 1             | HLTV #71  |
+| Xcity                |     | 210  | 3273.2 | 1             | HLTV #210 |
+| Balenciaga           |     |      | 3333.8 | 1             | Elo #3    |
+| WISP                 |     |      | 3090   | 1             | Elo #9    |
+| Vael                 |     |      | 3062.6 | 1             | Elo #10   |
+| Dynamo Eclot Phoenix |     |      | 3016.6 | 1             | Elo #11   |
+| Flamehard            |     |      | 2958.8 | 1             | Elo #12   |
+| Riset Youngster      |     |      | 2801.4 | 1             | Elo #13   |
+| Sylvar Esports       |     |      | 2680.8 | 1             | Elo #14   |
+| Firebird Esports     |     |      | 2602   | 1             | Elo #15   |
+| VoidLine             |     |      | 2588   | 1             | Elo #16   |
+| hu3team              |     |      | 2574.6 | 1             | Elo #17   |
+| Spectrum             |     |      | 2574   | 1             | Elo #18   |
+| Strawen Talents      |     |      | 2377.6 | 1             | Elo #19   |
+| Team Ferrum          |     |      | 2368.8 | 1             | Elo #20   |
+| TakeQualys           |     |      | 2268.2 | 1             | Elo #21   |
+| Bucabull eSports     |     |      | 2081   | 1             | Elo #22   |
+| Krypto Gaming        |     |      | 1635.4 | 1             | Elo #23   |
+| DawnWave             |     |      | 1331.4 | 1             | Elo #24   |
+| One Tap Mafia        |     |      | 1011.4 | 1             | Elo #25   |
+| MYCHELYN             |     |      | 894.4  | 1             | Elo #26   |
